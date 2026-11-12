@@ -1,0 +1,115 @@
+{
+    "checked_at": "2026-11-10T15:50:23+01:00",
+    "results": [
+        {
+            "retailer": "mytek",
+            "product": "ASUS TUF Gaming A14 (FA401KH-RG005W)",
+            "url": "https://www.mytek.tn/pc-portable-asus-tuf-gaming-a14-amd-ryzen-ai-7-16go-rtx-5050.html",
+            "final_url": "https://www.mytek.tn/pc-portable-asus-tuf-gaming-a14-amd-ryzen-ai-7-16go-rtx-5050.html",
+            "http_status": 403,
+            "page_title": "Just a moment...",
+            "og_image": null,
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:07+01:00"
+        },
+        {
+            "retailer": "spacenet",
+            "product": "Dell Vostro 3530",
+            "url": "https://spacenet.tn/pc-portable-tunisie/73644-pc-portable-dell-vostro-3530-i3-13gen-8go-256go-ssd-noir.html",
+            "final_url": "https://spacenet.tn/pc-portable-tunisie/73644-pc-portable-dell-vostro-3530-i3-13gen-8go-256go-ssd-noir.html",
+            "http_status": 200,
+            "page_title": "Pc Portable Dell Vostro 3530 i3 13Gén Au Meilleur Prix En Tunisie",
+            "og_image": "https://spacenet.tn/206026-large_default/pc-portable-dell-vostro-3530-i3-13gen-8go-256go-ssd-noir.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:10+01:00"
+        },
+        {
+            "retailer": "spacenet",
+            "product": "Dell Latitude 5420",
+            "url": "https://spacenet.tn/pc-portable-tunisie/45389-pc-portable-dell-latitude-5420-i7-11gen-8-go-256-go-ssd-615763-5420.html",
+            "final_url": "https://spacenet.tn/pc-portable-tunisie/45389-pc-portable-dell-latitude-5420-i7-11gen-8-go-256-go-ssd-615763-5420.html",
+            "http_status": 200,
+            "page_title": "Pc Portable Dell Latitude 5420 i7 11Gén 8 Go 256 Go SSD - SpaceNet",
+            "og_image": "https://spacenet.tn/80161-large_default/pc-portable-dell-latitude-5420-i7-11gen-8-go-256-go-ssd-615763-5420.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:12+01:00"
+        },
+        {
+            "retailer": "spacenet",
+            "product": "BMAX B6 Turbo mini PC",
+            "url": "https://spacenet.tn/pc-bureau-tunisie/98640-mini-pc-bmax-b6-turbo-intel-i5-16go-512go-ssd-windows-11-pro.html",
+            "final_url": "https://spacenet.tn/pc-bureau-tunisie/98640-mini-pc-bmax-b6-turbo-intel-i5-16go-512go-ssd-windows-11-pro.html",
+            "http_status": 200,
+            "page_title": "Mini Pc Bmax B6 Intel I5 16Go 512Go SSD W11 Pro Au Meilleur Prix En Tunisie",
+            "og_image": "https://spacenet.tn/352682-large_default/mini-pc-bmax-b6-turbo-intel-i5-16go-512go-ssd-windows-11-pro.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:13+01:00"
+        },
+        {
+            "retailer": "spacenet",
+            "product": "BMAX B9 Power mini PC",
+            "url": "https://spacenet.tn/pc-bureau-tunisie/82513-mini-pc-bmax-b9-power-i9-12gen-24go-1to-ssd-windows-11.html",
+            "final_url": "https://spacenet.tn/pc-bureau-tunisie/82513-mini-pc-bmax-b9-power-i9-12gen-24go-1to-ssd-windows-11.html",
+            "http_status": 200,
+            "page_title": "Mini Pc Bmax B9 Power i9 12Gén 24Go 1To SSD Au Meilleur Prix En Tunisie",
+            "og_image": "https://spacenet.tn/249286-large_default/mini-pc-bmax-b9-power-i9-12gen-24go-1to-ssd-windows-11.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:15+01:00"
+        },
+        {
+            "retailer": "sbs-informatique",
+            "product": "Lenovo IdeaPad Slim 3 15IRU8",
+            "url": "https://www.sbsinformatique.com/pc-portable-tunisie/pc-portable-lenovo-ideapad-slim-3-15iru8-intel-core-i3-1315u-8-go-512-go-tunisie",
+            "final_url": "https://www.sbsinformatique.com/pc-portable-tunisie/pc-portable-lenovo-ideapad-slim-3-15iru8-intel-core-i3-1315u-8-go-512-go-tunisie",
+            "http_status": 200,
+            "page_title": "Pc Portable Lenovo IdeaPad Slim 3 15IRU8 - Intel® Core™ i3-1315U - 8 Go - 512 Go | Tunisie",
+            "og_image": "https://www.sbsinformatique.com/23706/tunisie/large/pc-portable-lenovo-ideapad-slim-3-15iru8-intel-core-i3-1315u-8-go-512-go-tunisie.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:17+01:00"
+        },
+        {
+            "retailer": "sbs-informatique",
+            "product": "Lenovo LOQ 15IAX9e",
+            "url": "https://www.sbsinformatique.com/pc-portable-tunisie/pc-portable-lenovo-loq-15iax9-i5-12450hx-16go-512go-ssd-rtx3050-tunisie",
+            "final_url": "https://www.sbsinformatique.com/pc-portable-tunisie/pc-portable-lenovo-loq-15iax9-i5-12450hx-16go-512go-ssd-rtx3050-tunisie",
+            "http_status": 200,
+            "page_title": "PC Portable - LENOVO LOQ 15IAX9e i5-12450HX 16Go 512Go SSD RTX3050 | Tunisie",
+            "og_image": "https://www.sbsinformatique.com/21855/tunisie/large/pc-portable-lenovo-loq-15iax9-i5-12450hx-16go-512go-ssd-rtx3050-tunisie.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:18+01:00"
+        },
+        {
+            "retailer": "sbs-informatique",
+            "product": "Lenovo LOQ 15IRX9",
+            "url": "https://www.sbsinformatique.com/pc-portable-tunisie/pc-portable-lenovo-loq-15irx9-i7-13eme-gen-16g-rtx3050--tunisie",
+            "final_url": "https://www.sbsinformatique.com/pc-portable-tunisie/pc-portable-lenovo-loq-15irx9-i7-13eme-gen-16g-rtx3050--tunisie",
+            "http_status": 200,
+            "page_title": "PC Portable - LENOVO LOQ 15IRX9 i7 13ème Gén 16G RTX3050 | Tunisie",
+            "og_image": "https://www.sbsinformatique.com/23160/tunisie/large/pc-portable-lenovo-loq-15irx9-i7-13eme-gen-16g-rtx3050--tunisie.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:20+01:00"
+        },
+        {
+            "retailer": "sbs-informatique",
+            "product": "PC PROBOX NEXT desktop",
+            "url": "https://www.sbsinformatique.com/pcs-de-bureau-tunisie/pc-probox-next-intel-core-i5-12400f-8go-256go-gt-730-4gb-tunisie",
+            "final_url": "https://www.sbsinformatique.com/pcs-de-bureau-tunisie/pc-probox-next-intel-core-i5-12400f-8go-256go-gt-730-4gb-tunisie",
+            "http_status": 200,
+            "page_title": "PC PROBOX NEXT - Intel Core i5-12400F - 8Go - 256Go-GT 730 4GB | Tunisie",
+            "og_image": "https://www.sbsinformatique.com/16664/tunisie/large/pc-probox-next-intel-core-i5-12400f-8go-256go-gt-730-4gb-tunisie.jpg",
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:21+01:00"
+        },
+        {
+            "retailer": "wiki",
+            "product": "MSI Thin 15 B13UC",
+            "url": "https://wiki.tn/pc-portable-gamer-msi-thin-15-b13uc-i7-13gen-16go-512go-ssd-rtx-3050/",
+            "final_url": "https://wiki.tn/pc-portable-gamer-msi-thin-15-b13uc-i7-13gen-16go-512go-ssd-rtx-3050/",
+            "http_status": 403,
+            "page_title": "Just a moment...",
+            "og_image": null,
+            "curl_error": null,
+            "checked_at": "2026-11-10T15:50:22+01:00"
+        }
+    ]
+}

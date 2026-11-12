@@ -1,0 +1,93 @@
+# ---------------------------------------------------------------------------
+# Secrets and local configuration
+# ---------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+
+# Local configuration overrides and credential files
+*.local.php
+config/local.php
+secrets.php
+config/secrets.php
+*.secret
+*.secrets
+credentials*.txt
+admin_credentials*.txt
+
+# Private keys and certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+
+# ---------------------------------------------------------------------------
+# Dependencies
+# ---------------------------------------------------------------------------
+# The project does not require Composer or Node.js, but never commit installed
+# dependency trees if either tool is introduced later.
+vendor/
+node_modules/
+
+# ---------------------------------------------------------------------------
+# Logs, caches and temporary files
+# ---------------------------------------------------------------------------
+*.log
+logs/
+php_errors.log
+error_log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.swp
+*.swo
+*~
+.cache/
+cache/
+.phpunit.result.cache
+.phpunit.cache/
+.php-cs-fixer.cache
+
+# ---------------------------------------------------------------------------
+# Development environments and operating-system metadata
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+*.iml
+.netbeans/
+nbproject/private/
+.history/
+*.code-workspace
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------------------
+# Local database dumps, exports and backups
+# ---------------------------------------------------------------------------
+# Keep database/schema.sql, database/seed.sql, database/seed_base.sql and the
+# tracked research files. These rules only target local exports and backups.
+*.sql.gz
+*.sql.zip
+*.dump
+backup.sql
+backup-*.sql
+database/backup/
+database/backups/
+database/local_*.sql
+database/tmp_*.sql
+
+# ---------------------------------------------------------------------------
+# Freebuff workspace metadata
+# ---------------------------------------------------------------------------
+.freebuff/

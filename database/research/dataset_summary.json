@@ -1,0 +1,54 @@
+{
+    "generated_at": "2026-11-10T16:35:57+01:00",
+    "total_records": 170,
+    "laptops": 127,
+    "desktops": 43,
+    "by_retailer": {
+        "mytek": 1,
+        "sbs-informatique": 4,
+        "spacenet": 4,
+        "tunisia-net": 160,
+        "wiki": 1
+    },
+    "by_brand": {
+        "ASUS": 46,
+        "MSI": 32,
+        "Lenovo": 25,
+        "HP": 24,
+        "Dell": 20,
+        "Tunisia Net": 11,
+        "Blackview": 5,
+        "Apple": 3,
+        "BMAX": 2,
+        "PROBOX": 1,
+        "Bmax": 1
+    },
+    "by_stock": {
+        "in_stock": 163,
+        "out_of_stock": 4,
+        "limited": 3
+    },
+    "by_price_band": {
+        "desktop 1200-1800": 4,
+        "desktop 1800-2500": 7,
+        "desktop 2500-3500": 9,
+        "desktop 3500-5000": 6,
+        "desktop 5000-7000": 3,
+        "desktop 7000+": 13,
+        "desktop <1200": 1,
+        "laptop 1200-1800": 19,
+        "laptop 1800-2500": 26,
+        "laptop 2500-3500": 38,
+        "laptop 3500-5000": 26,
+        "laptop 5000-7000": 10,
+        "laptop 7000+": 5,
+        "laptop <1200": 3
+    },
+    "missing_laptop_screen_size": 0,
+    "distinct_product_urls": 170,
+    "primary_source": "https://www.tunisianet.com.tn/",
+    "primary_scanned_pages": 300,
+    "primary_valid_candidates": 642,
+    "manual_http_403_records": 2,
+    "seed_path": "database/seed.sql"
+}

@@ -1,0 +1,13 @@
+Options -Indexes
+
+<IfModule mod_authz_core.c>
+    <FilesMatch "^\.">
+        Require all denied
+    </FilesMatch>
+    <FilesMatch "\.(sql|md|log|ini|env|json|lock|bak|sh)$">
+        Require all denied
+    </FilesMatch>
+    <Files "bootstrap.php">
+        Require all denied
+    </Files>
+</IfModule>
